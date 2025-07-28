@@ -1,4 +1,3 @@
-# Understand Your Document - Hackathon Submission
 
 ## Overview
 
@@ -93,6 +92,5 @@ mysolutionname:somerandomidentifier
 - Does not rely on document-specific hardcoded logic — fully generic.
 - Designed to run consistently inside a Docker container for easy portability.
 
-If you have any questions or require additional details, feel free to reach out!
 
 
